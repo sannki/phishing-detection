@@ -5,6 +5,7 @@ import numpy as np
 
 
 def load_data():
+    
     """
     This helper function loads the dataset saved in the CSV file
     and returns 4 numpy arrays containing the training set inputs
